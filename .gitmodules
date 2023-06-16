@@ -4,3 +4,6 @@
 [submodule "OS-Vulnerability-01"]
 	path = OS-Vulnerability-01
 	url = https://github.com/NS-CSC/OS-Vulnerability-01
+[submodule "LoginPage-01"]
+	path = LoginPage-01
+	url = https://github.com/NS-CSC/LoginPage-01
