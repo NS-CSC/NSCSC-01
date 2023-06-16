@@ -1,6 +1,6 @@
-[submodule "SQL-injection-website"]
-	path = SQL-injection-website
+[submodule "SQL-injection-website-01"]
+	path = SQL-injection-website-01
 	url = https://github.com/NS-CSC/SQL-injection-website-01
-[submodule "Server-injection"]
-	path = Server-injection
+[submodule "Server-injection-01"]
+	path = Server-injection-01
 	url = https://github.com/NS-CSC/OS-Vulnerability-01
